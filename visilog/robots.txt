@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://issamjido1.github.io/visilog
+Sitemap: https://issamjido1.github.io/visilog/sitemap.xml

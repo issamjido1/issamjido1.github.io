@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/visilog/_next/static/chunks/42onvq6nokjl2.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/visilog/_next/static/chunks/1k4j1_pfcbzim.js"
+b:"/visilog/_next/static/chunks/1upuvyobbcz5n.js"
+c:I[76525,["$a","$b"],"ButtonLink"]
+d:I[5014,["$a","$b"],"default"]
+e:I[97367,["$3"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3"],"$14"]
+16:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"relative flex min-h-[80svh] items-center overflow-hidden pt-[var(--header-h)]","children":[["$","div",null,{"className":"grid-bg absolute inset-0 opacity-60","aria-hidden":true}],["$","div",null,{"className":"shell relative","children":[["$","p",null,{"className":"t-num text-[0.9rem] text-cyan","children":"Erreur 404 · Quai introuvable"}],["$","h1",null,{"className":"t-h1 mt-4 max-w-3xl","children":"Ce camion s'est trompé de quai."}],["$","p",null,{"className":"t-lead mt-6 max-w-xl","children":"La page demandée n'existe pas ou a été déplacée. Reprenez depuis l'accueil ou ouvrez la démonstration."}],["$","div",null,{"className":"mt-9 flex flex-col gap-3 sm:flex-row","children":[["$","$Lc",null,{"href":"/","icon":["$","$Ld",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":16}],"children":"Retour à l'accueil"}],["$","$Lc",null,{"href":"/tour-de-controle","variant":"secondary","children":"Ouvrir la tour de contrôle"}]]}]]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#06101E"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"VISILOG — Votre supply chain sous contrôle, en temps réel"}],["$","meta","1",{"name":"description","content":"VISILOG est la tour de contrôle supply chain qui rend visibles vos flux physiques : identification ANPR, suivi GPS, yard management, planification des quais et mesure automatique des temps de mise à disposition."}],["$","meta","2",{"name":"application-name","content":"VISILOG"}],["$","meta","3",{"name":"keywords","content":"tour de contrôle supply chain,yard management,ANPR,suivi GPS camions,temps de mise à disposition,MAD,planification des quais,visibilité transport,logistique Maroc"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://issamjido1.github.io/visilog/"}],["$","meta","6",{"property":"og:title","content":"VISILOG — Votre supply chain sous contrôle, en temps réel"}],["$","meta","7",{"property":"og:description","content":"VISILOG est la tour de contrôle supply chain qui rend visibles vos flux physiques : identification ANPR, suivi GPS, yard management, planification des quais et mesure automatique des temps de mise à disposition."}],["$","meta","8",{"property":"og:url","content":"https://issamjido1.github.io/visilog/"}],["$","meta","9",{"property":"og:site_name","content":"VISILOG"}],["$","meta","10",{"property":"og:locale","content":"fr_MA"}],["$","meta","11",{"property":"og:image","content":"https://issamjido1.github.io/visilog/opengraph-image?e6baf144f44d5ce7"}],["$","meta","12",{"property":"og:image:type","content":"image/png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"VISILOG — Votre supply chain. Sous contrôle. En temps réel."}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"VISILOG — Supply Chain Control Tower"}],["$","meta","19",{"name":"twitter:description","content":"VISILOG est la tour de contrôle supply chain qui rend visibles vos flux physiques : identification ANPR, suivi GPS, yard management, planification des quais et mesure automatique des temps de mise à disposition."}],["$","meta","20",{"name":"twitter:image","content":"https://issamjido1.github.io/visilog/opengraph-image?e6baf144f44d5ce7"}],["$","meta","21",{"name":"twitter:image:alt","content":"VISILOG — Votre supply chain. Sous contrôle. En temps réel."}],["$","meta","22",{"name":"twitter:image:type","content":"image/png"}],["$","meta","23",{"name":"twitter:image:width","content":"1200"}],["$","meta","24",{"name":"twitter:image:height","content":"630"}],["$","link","25",{"rel":"icon","href":"/visilog/icon.svg?icon.1_deoazy19fmw.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","26",{}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$8"}},"a":"$@18","u":"$@19","b":"T9D29Jizh-L_TClEpcK9y"}
+10:null
+19:true
+8:300
+8:C
+18:0
+6:"$undefined"
+17:"$undefined"
+11:"$undefined"
